@@ -9,4 +9,4 @@ Currently working on SugrFree and Whatsup and open to collaboration if you have 
 - www.leetcode.com/trevahok
 - www.github.com/trevahok ( big shocker there ) 
 - www.linkedin.com/in/vignesh-s-035b62179
-- trevahok.github.io 
+- https://trevahok.github.io 
