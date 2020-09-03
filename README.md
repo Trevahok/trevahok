@@ -1,7 +1,7 @@
 ### Hey, didn't see you there ... 
 
 Welcome to the lair of Trevahok, known in the mortal realm as Vignesh. In eternal love with Python and cheating on it with JS and occassionally flinging with C++. 
-Currently working on SugrFree as a hobby project and open to collaboration if you have an interesting idea. 
+Currently working on SugrFree and Whatsup and open to collaboration if you have an interesting idea. 
 
 
 ## Look out for me at: 
