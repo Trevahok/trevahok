@@ -1,9 +1,9 @@
 <h1 align="center">Hey, didn’t see you there! Welcome to Trevahok’s lair.</h1>
-<h3 align="center">Known in the mortal realm as Vignesh, Trevahok is a curious creature. He believes in precision and "beauty" in code, despite being the only preson to ever see his code. He is a self-proclaimed disciple of the sect Zen of Python. </h3>
+<h3 align="center">Known in the mortal realm as Vignesh, Trevahok is a curious creature. He believes in precision and "beauty" in code, despite being the only person to ever see his code. He is a self-proclaimed disciple of the sect, Zen of Python. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trevahok" alt="trevahok" /> </p>
 
-- 🔭 I’m currently working on [Whatsup](notwhatsapp.herokuapp.com)
+- 🔭 I’m currently working on [Whatsup](https://notwhatsapp.herokuapp.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/trevahok](https://github.com/trevahok)
 
