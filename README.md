@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I’m a HUGE Silicon Valley fanatic. Don’t even remind me about the ending.**
 
+More about my work at: [Trevahok's Portfolio](https://trevahok.github.io)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [I did this DAILY for two months, you won’t BELIEVE what happened next …](https://medium.com/@trevahok/i-did-this-daily-for-two-months-you-wont-believe-what-happened-next-158f97dd26d6?source=rss-ce83e7209221------2)
