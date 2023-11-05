@@ -21,10 +21,10 @@ More about my work at: [Trevahok's Portfolio](https://trevahok.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [I did this DAILY for two months, you won’t BELIEVE what happened next …](https://medium.com/@trevahok/i-did-this-daily-for-two-months-you-wont-believe-what-happened-next-158f97dd26d6?source=rss-ce83e7209221------2)
-- [This ONE weird trick SDE interviewers don’t want you to know…](https://medium.com/@trevahok/this-one-weird-trick-sde-interviewers-dont-want-you-to-know-9e5c2db522e8?source=rss-ce83e7209221------2)
-- [Checklist for popular algorithms and datastructures](https://medium.com/@trevahok/checklist-for-popular-algorithms-and-datastructures-7efecfa3df58?source=rss-ce83e7209221------2)
-- [The quest for forbidden knowledge](https://medium.com/@trevahok/the-quest-for-forbidden-knowledge-58308f0422ae?source=rss-ce83e7209221------2)
+- [Explain WebRTC like I’m 5?](https://medium.com/@trevahok/explain-webrtc-like-im-5-885371dd7186?source=rss-ce83e7209221------2)
+- [Tinder, but for ideas … hear me out.](https://medium.com/@trevahok/tinder-but-for-ideas-hear-me-out-3911b65fc706?source=rss-ce83e7209221------2)
+- [Save HUNDREDS of hours using GPT4 LangChain Agent for exploration](https://medium.com/@trevahok/save-hundreds-of-hours-using-gpt4-langchain-agent-for-exploration-4e97dfc5f94d?source=rss-ce83e7209221------2)
+- [These 5 books will CHANGE your life.](https://medium.com/@trevahok/these-5-books-will-change-your-life-a75184aa49f4?source=rss-ce83e7209221------2)
 <!-- BLOG-POST-LIST:END -->
 
 
