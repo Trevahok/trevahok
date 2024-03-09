@@ -24,7 +24,7 @@ More about my work at: [Trevahok's Portfolio](https://trevahok.github.io)
 - [Stream LITERALLY anything into and out of Unity using WebRTC](https://medium.com/@trevahok/stream-literally-anything-into-and-out-of-unity-using-webrtc-4b98dcfb0b1a?source=rss-ce83e7209221------2)
 - [Explain WebRTC like I’m 5?](https://medium.com/@trevahok/explain-webrtc-like-im-5-885371dd7186?source=rss-ce83e7209221------2)
 - [Tinder, but for ideas … hear me out.](https://medium.com/@trevahok/tinder-but-for-ideas-hear-me-out-3911b65fc706?source=rss-ce83e7209221------2)
-- [These 5 books will CHANGE your life.](https://medium.com/@trevahok/these-5-books-will-change-your-life-a75184aa49f4?source=rss-ce83e7209221------2)
+- [Object-Oriented Programming Paradigm in the Industry](https://medium.com/@trevahok/object-oriented-programming-paradigm-in-the-industry-5f1417514f60?source=rss-ce83e7209221------2)
 <!-- BLOG-POST-LIST:END -->
 
 
