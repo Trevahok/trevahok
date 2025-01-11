@@ -21,10 +21,10 @@ More about my work at: [Trevahok's Portfolio](https://trevahok.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Let’s think through CUDA Matrix Multiplication step-by-step …](https://medium.com/@trevahok/lets-think-through-cuda-matrix-multiplication-step-by-step-864642291472?source=rss-ce83e7209221------2)
-- [Python HACKS to breeze through coding tests](https://medium.com/@trevahok/python-hacks-to-breeze-through-coding-tests-10362cb7d7b0?source=rss-ce83e7209221------2)
-- [Stream LITERALLY anything into and out of Unity using WebRTC](https://medium.com/@trevahok/stream-literally-anything-into-and-out-of-unity-using-webrtc-4b98dcfb0b1a?source=rss-ce83e7209221------2)
-- [Explain WebRTC like I’m 5?](https://medium.com/@trevahok/explain-webrtc-like-im-5-885371dd7186?source=rss-ce83e7209221------2)
+- [Let’s think through CUDA Matrix Multiplication step-by-step …](https://trevahok.medium.com/lets-think-through-cuda-matrix-multiplication-step-by-step-864642291472?source=rss-ce83e7209221------2)
+- [Python HACKS to breeze through coding tests](https://trevahok.medium.com/python-hacks-to-breeze-through-coding-tests-10362cb7d7b0?source=rss-ce83e7209221------2)
+- [Stream LITERALLY anything into and out of Unity using WebRTC](https://trevahok.medium.com/stream-literally-anything-into-and-out-of-unity-using-webrtc-4b98dcfb0b1a?source=rss-ce83e7209221------2)
+- [Explain WebRTC like I’m 5?](https://trevahok.medium.com/explain-webrtc-like-im-5-885371dd7186?source=rss-ce83e7209221------2)
 <!-- BLOG-POST-LIST:END -->
 
 
